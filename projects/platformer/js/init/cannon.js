@@ -29,6 +29,7 @@
         cannon.create.onTop(69)
         cannon.create.onTop(550)
         cannon.create.onTop(650)
+        cannon.create.onTop(700)
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
